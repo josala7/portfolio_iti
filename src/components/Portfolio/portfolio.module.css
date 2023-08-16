@@ -1,0 +1,19 @@
+.portfolio {
+
+  text-decoration: underline;
+  text-transform: capitalize;
+
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.portfolio p {
+  background-color: rgb(20, 199, 199);
+  margin: 20px;
+  padding: 50px;
+  border: 2px solid black;
+
+}

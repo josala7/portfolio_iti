@@ -1,0 +1,28 @@
+.aboutstyle {
+  background-color: white;
+  color: black;
+  overflow: hidden;
+  background-image: url(https://www.iwriteessays.com/image/aboutmejpg);
+  background-repeat: no-repeat;
+  line-height: 150%;
+}
+
+.aboutstyle p,
+
+.aboutstyle button {
+  position: relative;
+  left: 60%;
+  bottom: 70px;
+  color: black;
+}
+
+.aboutstyle button {
+  margin: 20px;
+  color: white;
+  background-color: black;
+}
+
+.aboutstyle h1 {
+  text-align: left;
+  padding: 30px;
+}

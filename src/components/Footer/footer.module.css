@@ -1,0 +1,47 @@
+.footer_style {
+  background-color: black;
+  height: 100%;
+  padding: 50px;
+  justify-items: flex-end;
+}
+
+.footer_style.b1,
+.footer_style .b2,
+.footer_style .b3,
+.footer_style .b4,
+.footer_style .b5 {
+  display: inline-block;
+  margin: 30px;
+
+}
+
+.footer_style .b1 {
+  background-color: orange;
+
+}
+
+.footer_style .b2 {
+  background-color: blue;
+
+}
+
+.footer_style .b3 {
+  background-color: skyblue;
+
+}
+
+.footer_style .b4 {
+  background-color: burlywood;
+
+}
+
+.footer_style .b5 {
+  background-color: white;
+
+}
+
+.footer_style p {
+  color: white;
+  text-align: right;
+
+}

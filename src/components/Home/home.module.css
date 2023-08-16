@@ -1,0 +1,15 @@
+.homestyle {
+  text-align: center;
+  text-transform: capitalize;
+
+  /* background-color: skyblue; */
+  background-repeat: repeat;
+
+  background-image: url(https://thumbs.dreamstime.com/b/faceless-anonymous-computer-hacker-laptop-desk-faceless-anonymous-computer-hacker-laptop-114782802.jpg);
+  padding: 150px;
+  color: black;
+  border-style: groove;
+  height: 100%;
+
+}
+

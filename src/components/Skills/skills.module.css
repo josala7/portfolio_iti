@@ -1,0 +1,15 @@
+.skills_style {
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  padding: 15%;
+  height: 50%;
+  background-image: url(https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1567070991/1567070990.jpg);
+}
+
+.skills_style h1,
+.skills_style p {
+  text-align: center;
+  position: relative;
+  bottom: 90%;
+}
